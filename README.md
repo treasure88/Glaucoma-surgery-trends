@@ -2,7 +2,7 @@
 
 Code and reproducibility materials for the manuscript:
 
-**Ten-Year Trends in Glaucoma Surgical Choices and Patient Characteristics at a Tertiary Hospital in China: a retrospective hospital information system-based cohort study (2015–2024)**
+**Ten-Year Trends in Glaucoma Surgery at a Tertiary Hospital in China: a retrospective hospital information system–based cohort study**
 
 ## Authors and affiliations
 
