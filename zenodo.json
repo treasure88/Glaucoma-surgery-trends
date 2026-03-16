@@ -20,7 +20,7 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/<your-github-username>/glaucoma-surgery-trends",
+      "identifier": "https://github.com/treasure88/Glaucoma-surgery-trends",
       "relation": "isSupplementTo",
       "resource_type": "software"
     },
