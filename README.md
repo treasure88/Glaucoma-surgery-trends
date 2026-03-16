@@ -81,7 +81,7 @@ The underlying data are not publicly available because they contain sensitive pa
 
 ## Code availability
 
-All custom R scripts used for data processing, statistical analysis, and figure generation are provided in this repository. A Zenodo-archived release DOI should be added after the first public release.
+All custom R scripts used for data processing, statistical analysis, and figure generation are provided in this repository. The archived version of this repository is available on Zenodo: https://doi.org/10.5281/zenodo.19043147
 
 ## Expected input data
 
@@ -117,9 +117,11 @@ Recommended environment:
 Please cite both:
 
 1. the associated manuscript, once published; and
-2. the Zenodo software archive for the version you used.
+2. the archived software release used in your work.
 
-See `CITATION.cff` for machine-readable citation metadata.
+Suggested software citation:
+
+Liu C. glaucoma-surgery-trends (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19043147
 
 ## Public release notes
 
