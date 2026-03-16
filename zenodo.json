@@ -1,0 +1,33 @@
+{
+  "title": "Code and reproducibility materials for glaucoma surgery trends in China (2015–2024)",
+  "description": "Public-facing analysis code, codebook, and reproducibility materials for a retrospective hospital information system-based cohort study of glaucoma surgery trends in China from 2015 to 2024. The repository includes primary multivariable modeling, sensitivity analyses, projection code, and clustering analyses. Patient-level data are not included.",
+  "creators": [
+    {
+      "name": "Liu, Chunying",
+      "affiliation": "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, Sichuan, China"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "glaucoma",
+    "glaucoma surgery",
+    "ophthalmology",
+    "trend analysis",
+    "cluster analysis",
+    "China"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/<your-github-username>/glaucoma-surgery-trends",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://doi.org/10.0000/replace-with-publication-doi",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}

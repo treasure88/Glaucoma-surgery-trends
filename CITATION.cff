@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software archive and the associated manuscript."
+title: "glaucoma-surgery-trends"
+version: "1.0.0"
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Chunying"
+    affiliation: "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, Sichuan, China"
+repository-code: "https://github.com/<your-github-username>/glaucoma-surgery-trends"
+license: "MIT"
+doi: "10.5281/zenodo.XXXXXXX"
+abstract: >
+  Public-facing analysis code and reproducibility materials for a retrospective
+  hospital information system-based cohort study of glaucoma surgery trends in China, 2015–2024.
+keywords:
+  - glaucoma
+  - glaucoma surgery
+  - ophthalmology
+  - trend analysis
+  - clustering
+  - epidemiology
