@@ -7,9 +7,9 @@ authors:
   - family-names: "Liu"
     given-names: "Chunying"
     affiliation: "Department of Ophthalmology, West China Hospital, Sichuan University, Chengdu, Sichuan, China"
-repository-code: "https://github.com/<your-github-username>/glaucoma-surgery-trends"
+repository-code: "https://github.com/treasure88/Glaucoma-surgery-trends"
 license: "MIT"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.19043147"
 abstract: >
   Public-facing analysis code and reproducibility materials for a retrospective
   hospital information system-based cohort study of glaucoma surgery trends in China, 2015–2024.
